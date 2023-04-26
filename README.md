@@ -1,5 +1,16 @@
-# dio-desafio-github-primriro-repc
-Repositório criado para o Desafio de Projeto sobre Git/GitHub
+# Digital Innovation One
+Repositório criado para salvar os projetos relacionados a plataforma DIO
 
-## Links Uteis
-[Basic Sintax](https://www.markdownguide.org/basic-syntax/)
+## Pastas e Subpastas:
+<ol>
+  <li>Desafios
+    <ol>
+      <li>Desafio Git</li>
+    </ol>
+  </li>
+  <li>Projetos
+    <ol>
+      <li> </li>
+    </ol>
+  </li>
+</ol>
