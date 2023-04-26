@@ -1,2 +1,5 @@
 # dio-desafio-github-primriro-repc
-Desafio de Projeto sobre Git/GitHub
+Repositório criado para o Desafio de Projeto sobre Git/GitHub
+
+## Links Uteis
+[Basic Sintax](https://www.markdownguide.org/basic-syntax/)
